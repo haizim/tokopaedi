@@ -1,7 +1,5 @@
 import pandas as pd
 from matplotlib import pyplot as plt
-import numpy as np
-from scipy import stats
 
 # baca data csv
 df = pd.read_csv('./tokopaedi.csv')
