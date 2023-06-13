@@ -86,7 +86,7 @@ Dari analisis awal ini, saya melanjutkan analisis saya menggunakan python
 ## Kesimpulan & Saran
 Dari hasil analisis yang telah saya lakukan, dapat terlihat bahwa kombinasi yang paling menguntungkan ada pada diskon = 0.2 dengan quantity = 3. Sedangkan untuk kombinasi yang paling merugikan ada pada diskon = 0.3 dengan quantity = 2.
 
-Jadi saran saya untuk kedepannya jika ingin memberikan diskon, maka saran saya untuk memberikan diskon sebesar 0.2(20%) dengan batas quantity sebanyak 3 unit.
+Jadi saran saya untuk kedepannya jika ingin memberikan diskon, maka saran saya untuk memberikan diskon sebesar 0.2(20%) dengan batas quantity sebanyak 3 unit. Juga jika dapat, hindari memberikan diskon sebesar 0.3(30%) apalagi dengan batas quantity sebanyak 2 unit.
 
 ## Eksplorasi lebih jauh
 Menurut saya data ini dapat di-explore lebih lanjut seperti untuk menegetahui kombinasi produk, diskon dan quantity mana yang paling menguntungkan atau paling merugikan. Ini dapat dilihat dengan menggunakan query sql berikut :
